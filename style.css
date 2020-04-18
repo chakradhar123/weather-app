@@ -1,0 +1,28 @@
+html,body{
+    background-color: #859BC6;
+    margin: 0;
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h1{
+    font-size: 8vh;
+}
+body>div{
+    font-size: 7vh;
+}
+button{
+    background-color: white;
+    border-radius: 25px;
+    font-size: 3vh;
+    padding: 1vh;
+    color: #859BC6;
+    border: none;
+    
+}
+button:hover{
+    cursor: pointer;
+
+}
